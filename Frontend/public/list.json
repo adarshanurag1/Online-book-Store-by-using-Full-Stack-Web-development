@@ -1,0 +1,112 @@
+[
+    {
+        "id" : 1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-photo/view-some-open-books_1092821.htm#fromView=search&page=1&position=4&uuid=1703684d-36df-441a-9796-603c8c381841"
+
+    },
+
+    {
+        "id" : 2,
+        "name":"Philosophy Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-photo/view-some-open-books_1092821.htm#fromView=search&page=1&position=4&uuid=1703684d-36df-441a-9796-603c8c381841"
+
+    },
+
+    {
+        "id" : 3,
+        "name":"Music Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-photo/view-some-open-books_1092821.htm#fromView=search&page=1&position=4&uuid=1703684d-36df-441a-9796-603c8c381841"
+
+    },
+
+    {
+        "id" : 4,
+        "name":"Sports Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":60,
+        "category":"Sports",
+        "image":"https://www.freepik.com/free-photo/view-some-open-books_1092821.htm#fromView=search&page=1&position=4&uuid=1703684d-36df-441a-9796-603c8c381841"
+
+    },
+
+    {
+        "id" : 5,
+        "name":"Aptitude Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-photo/view-some-open-books_1092821.htm#fromView=search&page=1&position=4&uuid=1703684d-36df-441a-9796-603c8c381841"
+
+    },
+
+    {
+        "id" : 6,
+        "name":"Entertainment Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":30,
+        "category":"Entertainment",
+        "image":"https://www.freepik.com/free-photo/view-some-open-books_1092821.htm#fromView=search&page=1&position=4&uuid=1703684d-36df-441a-9796-603c8c381841"
+
+    },
+
+    {
+        "id" : 7,
+        "name":"Movie Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":35,
+        "category":"Movie",
+        "image":"https://www.freepik.com/free-photo/view-some-open-books_1092821.htm#fromView=search&page=1&position=4&uuid=1703684d-36df-441a-9796-603c8c381841"
+
+    },
+
+    {
+        "id" : 8,
+        "name":"Comedy Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":15,
+        "category":"Comedy",
+        "image":"https://www.freepik.com/free-photo/view-some-open-books_1092821.htm#fromView=search&page=1&position=4&uuid=1703684d-36df-441a-9796-603c8c381841"
+
+    },
+
+    {
+        "id" : 9,
+        "name":"Science Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":50,
+        "category":"Science",
+        "image":"https://www.freepik.com/free-photo/view-some-open-books_1092821.htm#fromView=search&page=1&position=4&uuid=1703684d-36df-441a-9796-603c8c381841"
+
+    },
+
+    {
+        "id" : 10,
+        "name":"Magic Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-photo/view-some-open-books_1092821.htm#fromView=search&page=1&position=4&uuid=1703684d-36df-441a-9796-603c8c381841"
+
+    },
+
+    {
+        "id" : 11,
+        "name":"Devotional Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-photo/view-some-open-books_1092821.htm#fromView=search&page=1&position=4&uuid=1703684d-36df-441a-9796-603c8c381841"
+
+    }
+
+]

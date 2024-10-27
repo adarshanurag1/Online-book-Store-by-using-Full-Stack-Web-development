@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "daisyui": "^4.12.10"
+  },
+  "dependencies": {
+    "react-slick": "^0.30.2"
+  }
+}
