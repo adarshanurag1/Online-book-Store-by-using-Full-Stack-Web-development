@@ -1,21 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@100;500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap");
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-body{
-    font-family: 'Poppins' , sans-serif;
-}
-
-img {
-    margin-left: 30px;
-    margin-top: 30px;
-    margin-bottom: 20px;
-}
-
-@media(max-width: 600px) {
-    img {
-    margin-left: 5px;
-    }
+body {
+  font-family: "Poppins", sans-serif;
 }
