@@ -33,7 +33,7 @@ export const signup = async (req, res) => {
 
     const createdUser = await db.query(
       "INSERT INTO users (fullname, email, password) VALUES ($1, $2, $3) RETURNING fullname, email;",
-      [fullname.trim(), email.trim(), hashPassword]
+      [fullname, email, hashPassword]
     );
 
     res.status(201).json({
