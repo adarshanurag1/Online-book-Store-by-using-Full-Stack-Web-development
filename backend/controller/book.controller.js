@@ -12,7 +12,8 @@ const db = new pg.Client({
 export const getBook = async(req, res) => {
     try {
         const book = await db.query("SELECT * FROM books;");
-        res.status(200).json(book);
+        //console.log(book.rows);
+        res.status(200).json(book.rows);
     } catch (error) {
         console.log("Error: ", error);
         res.status(500).json(error);
