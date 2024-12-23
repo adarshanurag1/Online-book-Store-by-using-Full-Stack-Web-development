@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
@@ -15,7 +14,7 @@ function Freebook() {
       try {
         const res = await axios.get("http://localhost:4001/book");
         const result = res.data
-        const data = result.filter((data) => data.category === "Free");
+        const data = result.filter((data) => data.category === "free");
         console.log(data);
         setBook(data);
       } catch (error) {
@@ -65,9 +64,7 @@ function Freebook() {
         <div>
           <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Accusantium veritatis alias pariatur ad dolor repudiandae eligendi
-            corporis nulla non suscipit, iure neque earum?
+            Read Without Limits - Explore our Free Collection because Good Reads Shouldn't Cost a Fortune. Here are some of the Free Offered Books which you may Like.
           </p>
         </div>
 
